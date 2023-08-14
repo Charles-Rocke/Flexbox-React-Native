@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "deep-dive-starter",
-    "slug": "deep-dive-starter",
+    "slug": "01-flex-box",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "abec1c32-b62d-49dc-ab3d-eaf70976a871"
+      }
+    },
+    "owner": "spookwinz"
   }
 }
